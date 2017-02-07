@@ -2,6 +2,19 @@ header{
   background-color: white;
 }
 
-section{
+body{
   background-color: orange;
+}
+
+
+footer{
+  background-color: white;
+}
+
+#QuickSneakers{
+  background-color: orange;
+}
+
+#productdetails{
+  background-color: white;
 }
